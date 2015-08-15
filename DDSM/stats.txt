@@ -1,0 +1,19 @@
+Rejections
+
+CALC : 11
+CIRC : 2
+SPIC : 2
+MISC : 4
+ARCH : 6
+ASYM : 5
+
+
+Present in Database
+______________________
+CALC : 14
+CIRC : 4
+SPIC : 9
+MISC : 8
+ARCH : 10
+ASYM : 12
+
